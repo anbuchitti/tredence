@@ -1,0 +1,43 @@
+
+.gadget-box label {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  span {
+    text-align: left; 
+  }
+}
+
+.gadget-box label {
+  text-align: right;
+}
+
+[nz-icon] {
+  font-size: 25px;
+  text-align: left;
+}
+
+.gadget-box {
+    background: white;
+    padding: 20px;
+}
+
+label.qnty {
+    font-size: 35px; 
+}
+
+.violet {
+    color: #624cec;
+}
+
+.blue {
+    color: #237de3;
+}
+
+.orange{
+    color: #fcb44e;
+}
+
+.red {
+    color: #fb3f5f;
+}
